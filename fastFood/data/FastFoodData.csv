@@ -1,0 +1,521 @@
+Restaurant,Meal,MealType,ItemName,Calories,Protein,TotalFat,TotalCarbs,Sodium,SaturatedFat,TransFat,Cholesterol,Fiber,Sugar
+McDonald's,Side,Side,Apple Slices,15,0,0,4,0,0,0,0,0,3
+Wendy's,Salad,Salad,Garden Side Salad,20,1,0,4,30,0,0,0,2,2
+McDonald's,Salad,Salad,Side Salad,20,1,0,4,10,0,0,0,1,2
+Burger King,Side,Side,Apple Slices,25,0,0,6,0,0,0,0,1,5
+Wendy's,Side,Side,Apple Slices,40,0,0,9,0,0,0,0,2,7
+McDonald's,Dessert,Dessert,Kiddie Cone,45,1,2,7,20,1,0,5,0,6
+Wendy's,Salad,Salad,Caesar Side Salad,60,4,4,4,70,3,0,10,2,1
+McDonald's,Salad,Salad,Premium Caesar Salad (without chicken),90,7,4,9,180,3,0,10,3,4
+McDonald's,Side,Side,Kids Fries,100,1,5,13,70,1,0,0,1,0
+McDonald's,Salad,Salad,Premium Bacon Ranch Salad (without chicken),140,9,7,10,300,4,0,25,3,4
+McDonald's,Salad,Salad,Premium Southwest Salad (without chicken),140,6,5,20,150,2,0,10,6,6
+Wendy's,Breakfast,Breakfast,Steel-Cut Oatmeal with Summer Berries,140,4,2,31,190,0,0,0,3,11
+Burger King,Breakfast,Breakfast,Quaker Oatmeal Original,140,5,4,23,100,1,0,5,3,1
+White Castle ,Burgers/Sandwiches,Burger,The Original Slider,140,7,6,13,360,2.5,0.5,10,1,1
+Burger King,Dessert,Dessert,Soft Serve Cup,140,4,4,23,125,3,0,15,0,19
+White Castle ,Breakfast,Breakfast,Wheat Toast,140,4,2,28,300,0,0,0,2,4
+Wendy's,Breakfast,Breakfast,"Steel-Cut Oatmeal, Plain",150,5,3,33,230,0,0,0,3,10
+White Castle ,Breakfast,Breakfast,Powdered Sugar Donuts  ,150,2,8,22,160,4,0,0,1,10
+McDonald's,Breakfast,Breakfast,Fruit n Yogurt Parfait,150,4,2,30,70,1,0,5,1,23
+McDonald's,Dessert,Dessert,Oatmeal Raisin Cookie,150,2,6,22,135,3,0,10,1,13
+Burger King,Side,Side,Onion Rings  value,150,1,8,19,400,2,0,0,1,2
+White Castle ,Breakfast,Breakfast,Cinnamon Donuts  ,150,2,8,22,160,4,0,0,1,10
+White Castle ,Breakfast,Breakfast,Plain Donuts  ,150,2,8,22,160,4,0,0,1,10
+McDonald's,Breakfast,Breakfast,Hash Brown,150,1,9,15,310,2,0,0,2,0
+Wendy's,Breakfast,Breakfast,Steel-Cut Oatmeal with Apples and Caramel,160,4,2,38,200,0,0,0,3,17
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Egg, Cheese",160,9,7,13,320,3,0,170,1,2
+White Castle ,Breakfast,Breakfast,Maple & Brown Sugar Oatmeal ,160,4,2,32,230,0,0,0,3,9
+White Castle ,Breakfast,Breakfast,Chocolate Covered Donuts  ,160,2,9,21,150,6,0,0,1,12
+White Castle ,Dessert,Dessert,Oatmeal Raisin Cookie ,160,2,6,23,115,2.5,0,10,1,12
+White Castle ,Burgers/Sandwiches,Burger,Jalapeno Cheese Slider,160,8,9,14,460,4,0.5,15,1,2
+McDonald's,Dessert,Dessert,Chocolate Chip Cookie,160,2,8,21,90,4,0,10,1,15
+Burger King,Dessert,Dessert,Soft Serve Cone,160,4,4,27,130,3,0,15,0,20
+McDonald's,Dessert,Dessert,Vanilla Reduced Fat Ice Cream Cone,170,5,5,27,70,3,0,15,0,20
+Wendy's,Burgers/Sandwiches,Chicken,4-Piece Spicy Chicken Nuggets,170,10,11,9,500,3,0,30,1,0
+White Castle ,Dessert,Dessert,Chocolate Chunk Cookie ,170,2,8,23,130,4,0,10,1,13
+White Castle ,Burgers/Sandwiches,Burger,Cheese Slider,170,8,9,15,550,4,0.5,15,1,3
+Burger King,Breakfast,Breakfast,Kids Oatmeal,170,4,4,32,260,2,0,5,3,9
+White Castle ,Burgers/Sandwiches,Chicken,Savory Grilled Chicken Slider  Plain,180,15,7,13,570,1.5,1,40,1,2
+Wendy's,Salad,Salad,Apple Pecan Chicken Salad Half-Size,180,18,6,14,490,4,0,55,3,9
+White Castle ,Dessert,Dessert,Fudge Dipped Cheesecake On A Stick,180,3,10,21,110,7,0,40,1,10
+White Castle ,Dessert,Dessert,White Chocolate Macadamia Cookie ,180,2,9,22,125,4,0,10,1,14
+Wendy's,Burgers/Sandwiches,Chicken,4-Piece Regular Chicken Nuggets,180,9,12,10,350,3,0,30,1,0
+Wendy's,Side,Side,"Rich & Meaty Chili, Small",180,13,5,20,790,2,0,30,4,5
+McDonald's,Salad,Salad,Premium Caesar Salad with Grilled Chicken,190,27,5,10,580,3,0,70,4,5
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Hamburger, Egg",190,12,11,12,200,4,0.5,175,1,2
+Wendy's,Salad,Salad,Chicken BLT Cobb Salad Half-Size,190,22,9,6,600,5,0,130,2,2
+McDonald's,Burgers/Sandwiches,Chicken,Chicken McNuggets (4 piece),190,9,12,12,360,2,0,25,1,0
+Burger King,Burgers/Sandwiches,Chicken,Chicken Nuggets (4 pc),190,10,11,10,310,2,0,25,1,0
+Burger King,Dessert,Dessert,Strawberry Sundae,190,4,4,35,125,3,0,15,0,31
+White Castle ,Dessert,Dessert,Chocolate Shake Minneapolis region  kids,200,4,4,37,200,2,0,20,0,30
+White Castle ,Dessert,Dessert,Vanilla Shake  Columbus region  kids,200,6,5,32,220,3.5,0,20,0,30
+White Castle ,Breakfast,Breakfast,Huevos Rancheros w/Bacon Slider (Cincinnati region),210,12,12,14,580,5,0,180,1,2
+White Castle ,Dessert,Dessert,Chocolate Shake  New Jersey Region  kids,210,6,6,35,170,3,0,20,1,27
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Bacon, Egg, Cheese",210,12,12,13,510,5,0,180,1,2
+White Castle ,Dessert,Dessert,Vanilla Shake  New Jersey Region  kids,210,8,6,31,220,4,0,25,0,26
+White Castle ,Dessert,Dessert,Chocolate Shake  Detroit region  kids,210,6,6,32,190,3,0,20,0,32
+White Castle ,Side,Side,Onion Rings  New Jersey region  Kids,210,1,14,21,190,2.5,0,0,2,3
+White Castle ,Burgers/Sandwiches,Burger,Bacon Jalapeno Cheese Slider,210,11,14,14,650,6,0.5,25,1,2
+White Castle ,Side,Side,Clam Strips   Small,210,8,17,5,620,2.5,0,15,0,1
+White Castle ,Breakfast,Breakfast,Maple & Brown Sugar Oatmeal w/ Berry Blend Topping ,220,4,2,46,230,0,0,0,4,21
+Burger King,Breakfast,Breakfast,BKBreakfast Muffin Sandwich Egg and Cheese,220,12,9,22,650,4,0,160,1,2
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Hamburger, Egg, Cheese",220,13,13,13,340,5.5,0.5,180,1,2
+White Castle ,Dessert,Dessert,Vanilla Shake  Chicago region  kids,220,6,4,41,170,2.5,0,15,1,34
+Burger King,Salad,Salad,Side Caesar Salad & dressing,220,6,20,7,540,4,0,10,2,3
+White Castle ,Breakfast,Breakfast,Cloverhill Glazed Donuts ,220,2,11,29,160,6,0,0,0,17
+Wendy's,Side,Side,Value Natural-Cut Fries,220,3,11,28,240,2,0,0,3,0
+White Castle ,Burgers/Sandwiches,Burger,Bacon Cheese Slider,220,11,14,13,640,6,0.5,25,1,2
+McDonald's,Salad,Salad,Premium Bacon Ranch Salad with Grilled Chicken,230,30,9,10,700,4,0,85,4,5
+Burger King,Salad,Salad,Side Garden Salad and Avocado Ranch Dressing,230,5,21,7,520,5,0,30,2,3
+White Castle ,Dessert,Dessert,Chocolate Shake  Indianapolis region  kids,230,6,7,42,170,4.5,0,35,1,32
+White Castle ,Dessert,Dessert,Chocolate Shake  Louisville region  kids,230,6,7,42,170,4.5,0,35,1,32
+White Castle ,Dessert,Dessert,Strawberry Shake  Columbus region  kids,230,6,5,41,220,3.5,0,20,0,39
+White Castle ,Breakfast,Breakfast,"Breakfast toast sandwich w/Egg, Cheese",230,11,9,29,500,3,0,170,2,4
+Burger King,Breakfast,Breakfast,French Toast Sticks (3 piece),230,3,11,29,260,2,0,0,1,8
+Wendy's,Breakfast,Breakfast,Seasoned Homestyle Potatoes,230,2,9,34,700,2,0,0,3,0
+McDonald's,Side,Side,Small French Fries,230,3,11,29,160,2,0,0,3,0
+White Castle ,Breakfast,Breakfast,Waffles (2pc) ,230,3,12,16,180,6,0,0,1,0
+White Castle ,Breakfast,Breakfast,Maple & Brown Sugar Oatmeal w/ Honey Roasted Almond Topping,240,7,8,38,270,0.5,0,0,5,13
+White Castle ,Burgers/Sandwiches,Chicken,Savory Grilled Chicken Slider  Cheddar Bacon,240,16,12,15,880,3,1,50,1,3
+White Castle ,Dessert,Dessert,Chocolate Shake  St. Louis Region  kids,240,5,5,42,75,3.5,0,20,2,31
+White Castle ,Dessert,Dessert,Chocolate Shake  Columbus region  kids,240,6,6,42,220,3.5,0,20,0,39
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Bologna, Cheese",240,10,15,14,760,6,0,35,1,3
+Burger King,Burgers/Sandwiches,Chicken,Home-style Chicken Strips- 2pc,240,9,13,23,940,3,0,20,0,0
+Burger King,Side,Side,French Fries  value (Salted),240,2,10,34,330,2,0,0,3,0
+White Castle ,Burgers/Sandwiches,Burger,Double Original Slider,240,12,12,21,660,5,1,20,1,2
+Burger King,Burgers/Sandwiches,Burger,Hamburger,240,12,8,31,460,4,0,30,1,7
+Burger King,Breakfast,Breakfast,"BKBreakfast Muffin Sandwich bacon, egg and Cheese",250,14,11,22,760,5,0,165,1,2
+Burger King,Breakfast,Breakfast,"BKBreakfast Muffin Sandwich ham, egg and Cheese",250,18,9,23,1090,4,0,175,1,3
+Wendy's,Salad,Salad,Spicy Chicken Caesar Salad Half-Size,250,18,14,14,520,6,0,45,4,2
+McDonald's,Burgers/Sandwiches,Chicken,Honey Mustard Snack Wrap (Grilled),250,16,8,27,650,4,0,45,1,2
+McDonald's,Side,Side,Honey Mustard Snack Wrap (Grilled),250,16,8,27,650,4,0,45,1,2
+McDonald's,Burgers/Sandwiches,Chicken,Chipotle BBQ Snack Wrap (Grilled),250,16,8,27,670,4,0,40,1,5
+McDonald's,Side,Side,Chipotle BBQ Snack Wrap (Grilled),250,16,8,27,670,4,0,40,1,5
+White Castle ,Dessert,Dessert,Fudge Dipped Brownie on a Stick,250,2,12,33,95,7,0,35,1,26
+Wendy's,Burgers/Sandwiches,Burger,"Hamburger, Kids Meal",250,14,10,25,530,4,1,40,1,5
+McDonald's,Dessert,Dessert,Baked Hot Apple Pie,250,2,13,32,170,7,0,0,4,13
+Burger King,Breakfast,Breakfast,Hash Browns  small,250,2,16,24,410,4,0,0,3,0
+McDonald's,Breakfast,Breakfast,Egg White Delight,250,18,7,32,800,3,0,25,5,3
+Wendy's,Burgers/Sandwiches,Burger,Jr. Hamburger,250,14,10,25,600,4,1,40,2,5
+McDonald's,Burgers/Sandwiches,Burger,Hamburger,250,12,9,31,480,4,1,25,2,6
+McDonald's,Breakfast,Breakfast,Fruit & Maple Oatmeal without Brown Sugar,260,5,4,49,115,2,0,5,5,18
+White Castle ,Dessert,Dessert,Strawberry Shake  Chicago region  kids,260,6,4,49,170,2.5,0,15,1,43
+White Castle ,Dessert,Dessert,Chocolate Shake  Chicago region  kids,260,6,4.5,51,160,2.5,0,15,1,43
+Burger King,Burgers/Sandwiches,Burger,WHOPPER JR. Sandwich w/o Mayo,260,13,10,28,440,4,0,35,2,6
+Wendy's,Burgers/Sandwiches,Chicken,6-Piece Spicy Chicken Nuggets,260,15,17,14,750,4,0,45,1,0
+Wendy's,Burgers/Sandwiches,Chicken,Grilled Chicken Go Wrap,260,19,10,25,740,4,0,55,1,3
+Burger King,Breakfast,Breakfast,Quaker Oatmeal Maple and Brown Sugar Flavor*,270,5,4,55,290,2,0,5,5,29
+White Castle ,Dessert,Dessert,Chocolate Shake Nashville region  kids,270,6,6,48,110,4,0,20,0,37
+Wendy's,Side,Side,Plain Baked Potato (avg. wgt. 10 oz.),270,7,0,61,25,0,0,0,7,3
+McDonald's,Side,Chicken,Spicy Chicken McBites Snack Size,270,14,17,18,600,3,0,35,6,0
+Wendy's,Burgers/Sandwiches,Chicken,6-Piece Regular Chicken Nuggets,270,14,18,14,520,4,0,45,1,0
+McDonald's,Side,Side,Ranch Snack Wrap (Grilled),270,16,12,25,700,4,0,45,1,2
+McDonald's,Burgers/Sandwiches,Chicken,Ranch Snack Wrap (Grilled),270,16,12,25,700,4,0,45,1,2
+Wendy's,Side,Side,"Rich & Meaty Chili, Large",270,19,8,31,1180,3,1,40,7,8
+Wendy's,Breakfast,Breakfast,Sausage & Egg Burrito,270,12,20,12,640,7,0,210,1,1
+Wendy's,Breakfast,Breakfast,"Toasted Bagel, Plain",270,9,1,55,540,0,0,0,4,7
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Bologna, Egg",280,14,17,14,680,5.5,0,195,1,3
+White Castle ,Burgers/Sandwiches,Burger,Double Jalapeno Cheese Slider,280,15,17,21,860,8,1,30,1,2
+McDonald's,Burgers/Sandwiches,Chicken,Chicken McNuggets (6 piece),280,13,18,18,540,3,0,40,1,0
+Wendy's,Salad,Salad,Baja Chili Salad Half-Size,280,16,16,18,820,7,0,45,7,6
+Burger King,Breakfast,Breakfast,CROISSANWICH Egg & Cheese,280,12,15,25,620,7,0,160,1,4
+Burger King,Side,Side,Mozzarella Sticks (4 pc),280,11,15,24,650,5,0,35,2,2
+Burger King,Dessert,Dessert,Chocolate Fudge Sundae,280,6,7,50,220,5,0,15,1,43
+Wendy's,Dessert,Dessert,"Vanilla Frosty, Small",280,8,7,46,135,5,0,30,0,39
+McDonald's,Dessert,Dessert,Strawberry Sundae,280,6,6,49,85,4,0,25,0,45
+Burger King,Dessert,Dessert,Caramel Sundae,280,5,6,52,250,4,0,20,0,37
+Burger King,Burgers/Sandwiches,Burger,Cheeseburger,280,15,12,32,690,6,0,40,1,7
+Wendy's,Breakfast,Breakfast,Oatmeal Bar,280,4,10,46,220,5,0,20,5,24
+White Castle ,Burgers/Sandwiches,Chicken,Savory Grilled Chicken Slider  Western BBQ (New Jersey only),290,15,13,29,820,2.5,1,40,1,9
+White Castle ,Breakfast,Breakfast,Huevos Rancheros Breakfast toast sandwich w/Bacon,290,14,14,30,760,5,0,180,2,5
+McDonald's,Salad,Salad,Premium Southwest Salad with Grilled Chicken,290,27,8,28,650,3,0,70,7,11
+Wendy's,Breakfast,Breakfast,Artisan Sandwich with Egg & Cheese,290,15,13,29,530,6,0,235,1,4
+White Castle ,Side,Side,Home-style Onion Rings Kids,290,4,19,25,360,3,0,0,1,5
+Wendy's,Dessert,Dessert,Vanilla Frosty Waffle Cone,290,7,0,53,160,4,0,20,1,34
+Burger King,Breakfast,Breakfast,Sausage Breakfast Burrito,290,14,17,21,830,7,0,140,1,2
+Wendy's,Burgers/Sandwiches,Burger,"Cheeseburger, Kids Meal",290,16,13,26,730,6,1,50,1,6
+Wendy's,Dessert,Dessert,"Chocolate Frosty, Small",290,8,7,48,135,5,0,30,2,40
+Burger King,Burgers/Sandwiches,Chicken,Chicken Nuggets (6 pc),290,15,17,15,460,3,0,40,1,0
+McDonald's,Breakfast,Breakfast,Fruit & Maple Oatmeal ,290,5,4,58,160,2,0,5,5,32
+Wendy's,Burgers/Sandwiches,Burger,Jr. Cheeseburger,290,16,13,26,800,6,1,50,2,6
+Burger King,Burgers/Sandwiches,Burger,WHOPPER JR. Sandwich with Cheese w/o Mayo,300,16,14,660,710,6,0,45,1,6
+White Castle ,Dessert,Dessert,Strawberry Shake  Cincinnati region  kids,300,7,8,52,170,5,0,15,0,42
+White Castle ,Dessert,Dessert,Vanilla Shake  Cincinnati region  kids,300,7,8,52,170,5,0,15,0,42
+Wendy's,Dessert,Dessert,Chocolate Frosty Waffle Cone,300,7,6,54,160,4,0,20,2,35
+White Castle ,Burgers/Sandwiches,Burger,Double Cheese Slider,300,15,17,20,940,8,1,30,1,3
+Burger King,Breakfast,Breakfast,Cinnabon Roll- One,300,6,11,45,280,5,0,5,2,20
+McDonald's,Breakfast,Breakfast,Sausage Burrito,300,12,16,26,790,7,0,115,1,2
+McDonald's,Burgers/Sandwiches,Burger,Cheeseburger,300,15,12,33,680,6,1,40,2,7
+McDonald's,Breakfast,Breakfast,Egg McMuffin,300,18,12,32,780,5,0,260,4,3
+White Castle ,Breakfast,Breakfast,Huevos Rancheros w/Sausage Slider (Cincinnati region),310,15,22,14,700,9,0,195,1,2
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Bologna, Egg, Cheese",310,15,19,15,820,7,0,200,1,3
+White Castle ,Breakfast,Breakfast,"Breakfast slider w/ Sausage, Egg, Cheese",310,15,22,13,630,8,0,195,1,2
+White Castle ,Dessert,Dessert,Chocolate Shake  Cincinnati region  kids,310,7,8,53,170,5,0,15,0,42
+Burger King,Breakfast,Breakfast,"CROISSANWICH Ham, Egg & Cheese",310,17,15,26,1030,7,0,165,1,5
+Burger King,Dessert,Dessert,Oatmeal Raisin Cookies (2),310,4,13,46,260,8,0,20,3,26
+Wendy's,Side,Side,Small Natural-Cut Fries,310,4,15,40,330,3,0,0,4,0
+McDonald's,Burgers/Sandwiches,Burger,Grilled Onion Cheddar,310,15,13,33,660,6,1,40,2,7
+Burger King,Dessert,Dessert,HERSHEYS Sundae Pie,310,3,19,32,220,12,0,10,1,22
+Burger King,Burgers/Sandwiches,Burger,Bacon Cheeseburger,310,17,14,32,770,6,0,45,1,7
+White Castle ,Burgers/Sandwiches,Chicken,Savory Grilled Chicken Slider  Western BBQ ,320,16,14,30,870,2.5,1,40,1,10
+White Castle ,Burgers/Sandwiches,Chicken,Savory Grilled Chicken Slider  Western BBQ,320,16,16,28,910,3,1,40,2,9
+White Castle ,Breakfast,Breakfast,"Breakfast toast sandwich w/Bologna, Cheese",320,11,16,30,940,6,0,35,2,5
+White Castle ,Breakfast,Breakfast,"Waffle Breakfast Sandwich w/Egg, Cheese ",320,10,18,17,380,9,0,170,1,0
+Burger King,Breakfast,Breakfast,"CROISSANWICH Bacon, Egg & Cheese",320,13,18,25,710,8,0,165,1,4
+Burger King,Burgers/Sandwiches,Veggie ,BK VEGGIE Burger w/o Mayo,320,22,7,43,960,1,0,0,7,8
+White Castle ,Side,Side,Fish Nibblers   Small,320,16,16,28,700,3,0,10,1,1
+Burger King,Side,Side,Onion Rings  small,320,3,16,41,840,3,0,0,3,4
+Burger King,Burgers/Sandwiches,Burger,BK Bacon Burger,320,14,17,31,500,5,0,40,1,7
+Burger King,Dessert,Dessert,Dutch Apple Pie,320,2,14,46,300,6,0,0,1,23
+Burger King,Breakfast,Breakfast,BKBreakfast Muffin Sandwich Sausage and Cheese,330,14,20,23,750,7,0,45,1,1
+Wendy's,Breakfast,Breakfast,Steel-Cut Oatmeal with Cranberries and Pecans,330,5,12,57,250,1,0,0,4,33
+McDonald's,Side,Side,Honey Mustard Snack Wrap (Crispy),330,14,15,33,700,5,0,30,1,2
+McDonald's,Burgers/Sandwiches,Chicken,Honey Mustard Snack Wrap (Crispy),330,14,15,33,700,5,0,30,1,2
+McDonald's,Burgers/Sandwiches,Chicken,Chipotle BBQ Snack Wrap (Crispy),330,14,15,34,720,5,0,30,1,4
+McDonald's,Side,Side,Chipotle BBQ Snack Wrap (Crispy),330,14,15,34,720,5,0,30,1,4
+Burger King,Dessert,Dessert,Chocolate Chip Cookies (2),330,3,15,47,250,8,0,20,1,29
+Wendy's,Burgers/Sandwiches,Chicken,Spicy Chicken Go Wrap,330,17,16,30,870,5,0,40,1,1
+White Castle ,Side,Side,French Fries  Small,330,3,21,32,50,4,0,0,3,2
+Burger King,Burgers/Sandwiches,Burger,Double Hamburger,330,19,15,31,490,6,0,60,1,7
+McDonald's,Dessert,Dessert,Hot Fudge Sundae,330,8,9,53,170,7,0,25,1,48
+McDonald's,Burgers/Sandwiches,Chicken,Mac Snack Wrap,330,14,19,26,670,7,1,45,1,3
+McDonald's,Side,Side,Mac Snack Wrap,330,14,19,26,670,7,1,45,1,3
+White Castle ,Breakfast,Breakfast,"Breakfast toast sandwich w/Bacon, Egg, Cheese",340,17,19,29,880,7,0,190,2,4
+Burger King,Dessert,Dessert,White Chocolate Macadamia Nut Cookies (2),340,4,18,44,240,8,0,20,0,28
+White Castle ,Breakfast,Breakfast,Hash Round Nibblers (New Jersey)  Small,340,2,25,23,380,6,0,0,2,0
+White Castle ,Side,Side,Onion Rings  New Jersey region  Medium,340,2,22,33,310,4,0,0,3,5
+McDonald's,Dessert,Dessert,Snack Size McFlurry with OREO Cookies,340,8,11,53,190,6,0,30,1,43
+White Castle ,Breakfast,Breakfast,Cloverhill Chocolate Iced Donuts ,340,2,22,29,180,12,0,0,1,20
+Burger King,Side,Side,French Fries  small (Salted),340,4,15,49,480,3,0,0,4,0
+Wendy's,Burgers/Sandwiches,Chicken,Homestyle Chicken Go Wrap,340,17,17,30,910,5,0,45,1,1
+Burger King,Burgers/Sandwiches,Burger,WHOPPER JR. Sandwich,340,14,19,28,510,5,0,40,2,6
+McDonald's,Dessert,Dessert,Hot Caramel Sundae,340,7,8,60,150,5,0,30,0,43
+White Castle ,Burgers/Sandwiches,Fish,Fish Slider,340,11,24,18,410,5,0,20,1,2
+Wendy's,Breakfast,Breakfast,Artisan Egg Sandwich with Applewood Smoked Bacon,350,18,18,29,730,8,0,250,1,4
+McDonald's,Salad,Salad,Premium Caesar Salad with Crispy Chicken,350,23,18,24,740,5,0,55,4,7
+McDonald's,Burgers/Sandwiches,Chicken,Premium Grilled Chicken Classic Sandwich,350,28,9,42,820,2,0,65,3,8
+White Castle ,Breakfast,Breakfast,"Breakfast toast sandwich w/Bologna, Egg",350,16,18,30,860,5,0,190,2,5
+White Castle ,Side,Side,French Fries (New Jersey region)  Small,350,5,21,34,40,4.5,0,0,3,1
+Burger King,Side,Side,Ranch Grilled Chicken Wrap,350,19,18,24,1020,5,0,55,1,1
+McDonald's,Side,Side,Ranch Snack Wrap (Crispy),350,14,19,32,750,5,0,35,1,2
+McDonald's,Burgers/Sandwiches,Chicken,Ranch Snack Wrap (Crispy),350,14,19,32,750,5,0,35,1,2
+Wendy's,Salad,Salad,Apple Pecan Chicken Salad,350,35,11,27,970,7,0,115,5,17
+Wendy's,Burgers/Sandwiches,Burger,Jr. Cheeseburger Deluxe,350,17,19,27,830,7,1,55,2,7
+McDonald's,Breakfast,Breakfast,Hotcakes,350,8,9,60,590,2,0,20,3,14
+McDonald's,Burgers/Sandwiches,Chicken,Premium McWrap Chicken Sweet Chili (Grilled),360,26,9,43,1030,3,0,65,2,9
+Wendy's,Breakfast,Breakfast,Fresh-Baked Biscuit with Egg & Cheese,360,14,18,36,1060,11,0,230,2,4
+Burger King,Burgers/Sandwiches,Chicken,Home-style Chicken Strips- 3pc,360,14,19,34,1400,4,0,30,1,0
+White Castle ,Breakfast,Breakfast,Hash Round Nibblers  Small,360,2,28,25,460,4,0,0,2,0
+McDonald's,Burgers/Sandwiches,Chicken,McChicken ,360,14,16,40,800,3,0,35,2,5
+Burger King,Side,Side,Honey Mustard Grilled Chicken Wrap,370,19,19,29,950,5,0,55,1,6
+Wendy's,Burgers/Sandwiches,Chicken,Ultimate Chicken Grill Sandwich,370,34,7,43,880,2,0,95,2,9
+Burger King,Side,Side,Ranch Crispy Chicken Wrap,370,14,23,29,1010,6,1,35,2,1
+Burger King,Burgers/Sandwiches,Burger,Double Cheeseburger,370,22,18,32,720,9,1,70,1,7
+Burger King,Burgers/Sandwiches,Burger,BK Single Stacker,370,16,21,32,690,8,0,50,1,7
+McDonald's,Breakfast,Breakfast,Sausage McMuffin,370,15,22,31,820,8,0,45,4,2
+White Castle ,Breakfast,Breakfast,Huevos Rancheros Breakfast toast sandwich w/Sausage,380,16,23,30,880,8,0,200,2,5
+White Castle ,Breakfast,Breakfast,"Waffle Breakfast Sandwich w/Sausage, Egg, Cheese ",380,13,23,17,570,11,0,180,1,0
+White Castle ,Breakfast,Breakfast,"Breakfast toast sandwich w/Bologna, Egg, Cheese",380,17,21,31,1000,7,0,200,2,5
+Burger King,Side,Side,Chicken Caesar Garden Fresh Salad Wrap- grilled,380,21,18,37,1210,4,0,40,5,3
+White Castle ,Breakfast,Breakfast,"Breakfast toast sandwich w/Sausage, Egg, Cheese",380,16,23,29,810,8,0,200,2,4
+White Castle ,Breakfast,Breakfast,Chicken & Waffles w/Grilled Chicken Breast ,380,15,20,20,730,8,0.5,45,2,1
+Burger King,Burgers/Sandwiches,Burger,WHOPPER JR. Sandwich with Cheese,380,16,23,29,730,8,1,55,2,6
+McDonald's,Dessert,Dessert,Snack Size Holiday Mint McFlurry,380,8,14,56,110,10,0,30,0,51
+Burger King,Breakfast,Breakfast,French Toast Sticks (5 piece),380,5,18,49,430,3,0,0,2,13
+White Castle ,Breakfast,Breakfast,Cloverhill Apple Danish ,380,5,16,61,350,8,0,5,2,34
+Wendy's,Burgers/Sandwiches,Chicken,Crispy Chicken Sandwich,380,15,20,35,680,4,0,35,3,4
+Burger King,Burgers/Sandwiches,Chicken,Chicken Nuggets (8 pc),380,20,22,20,610,5,0,50,2,0
+Wendy's,Salad,Salad,Chicken BLT Cobb Salad,380,44,18,11,1190,9,0,260,3,4
+McDonald's,Side,Side,Medium French Fries,380,4,19,48,270,3,0,0,5,0
+White Castle ,Burgers/Sandwiches,Chicken,Chicken Ring Slider,380,10,30,16,460,7,0,40,1,2
+Burger King,Breakfast,Breakfast,"BKBreakfast Muffin Sandwich Sausage, egg and Cheese",390,20,23,23,960,9,0,195,1,2
+Burger King,Breakfast,Breakfast,"DOUBLE CROISSANWICH w/ Ham, Bacon, Egg, & Cheese",390,22,22,26,1350,10,0,190,1,5
+McDonald's,Salad,Salad,Premium Bacon Ranch Salad with Crispy Chicken,390,26,22,24,870,6,0,70,4,7
+Burger King,Breakfast,Breakfast,"DOUBLE CROISSANWICH w/ Bacon, Egg, & Cheese",390,18,24,25,1020,11,0,180,1,4
+Wendy's,Breakfast,Breakfast,Toasted Bagel Sandwich with Egg and Cheddar,390,19,10,56,700,5,0,225,4,7
+Burger King,Breakfast,Breakfast,"DOUBLE CROISSANWICH w/ ham, Egg, & Cheese",390,26,19,27,1670,9,0,185,1,6
+White Castle ,Burgers/Sandwiches,Burger,Double Bacon Jalapeno Cheese Slider,390,21,27,21,1230,12,1,55,1,2
+Burger King,Side,Side,Honey Mustard Crispy Chicken Wrap,390,14,23,34,930,6,0,35,2,6
+Burger King,Breakfast,Breakfast,CROISSANWICH Sausage & Cheese,390,13,26,25,700,10,0,45,1,3
+Wendy's,Burgers/Sandwiches,Burger,Jr. Bacon Cheeseburger (JBC),390,20,22,26,870,8,1,65,2,5
+Burger King,Breakfast,Breakfast,"Ham, Egg, & Cheese Biscuit",390,19,19,33,1600,14,1,165,1,4
+Wendy's,Dessert,Dessert,Chocolate Chunk Cookie,390,4,21,51,270,11,0,25,2,30
+White Castle ,Burgers/Sandwiches,Chicken,Chicken Breast Slider,390,13,28,20,650,6,0,25,1,2
+McDonald's,Burgers/Sandwiches,Fish ,Filet-O-Fish,390,15,19,39,590,4,0,40,2,5
+Wendy's,Dessert,Dessert,Sugar Cookie,390,4,19,53,360,9,0,30,1,28
+Burger King,Burgers/Sandwiches,Chicken,Tacos (2),390,14,16,18,710,7,1,30,5,4
+McDonald's,Burgers/Sandwiches,Burger,McDouble,390,23,19,33,850,8,1,65,2,7
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese McGriddles with Egg Whites",400,20,15,47,1250,7,0,35,2,16
+Burger King,Burgers/Sandwiches,Chicken,Premium Chicken Sandwich- Grilled w/o Mayo,400,31,11,43,1260,2,0,70,2,5
+McDonald's,Breakfast,Breakfast,Sausage McMuffin with Egg Whites,400,22,22,31,910,8,0,50,5,2
+White Castle ,Burgers/Sandwiches,Burger,Double Bacon Cheese Slider,400,21,27,21,1220,12,1,55,1,2
+White Castle ,Side,Side,Cheese Fries  Small,400,4,27,35,350,5,0,0,3,2
+Wendy's,Dessert,Dessert,Chocolate Brownie,400,5,18,57,190,5,0,75,3,44
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese Biscuit w/ Egg Whites (RegularBiscuit)",410,20,20,36,1300,11,0,35,2,3
+McDonald's,Breakfast,Breakfast,Southern Style Chicken Biscuit (Regular Size Biscuit),410,17,20,41,1180,8,0,30,2,3
+McDonald's,Dessert,Dessert,Snack Size McFlurry with Reeses Peanut Butter Cup ,410,10,16,57,200,8,0,30,1,51
+Burger King,Burgers/Sandwiches,Fish ,Premium Alaskan Fish Sandwich w/o Tartar Sauce,410,21,12,53,1240,2,0,30,3,6
+White Castle ,Dessert,Dessert,Chocolate Shake Minneapolis region  small,410,9,9,78,410,4.5,0,45,0,64
+White Castle ,Side,Side,Cheese Fries (New Jersey region)  Small,410,4,28,35,350,5,0,0,3,2
+White Castle ,Dessert,Dessert,Vanilla Shake  Columbus region  small,410,13,11,67,470,8,0,45,0,63
+Burger King,Side,Side,French Fries  medium (Salted),410,4,18,58,570,3,0,0,4,0
+Wendy's,Side,Side,Medium Natural-Cut Fries,410,5,20,52,440,4,0,0,5,0
+White Castle ,Side,Side,Clam Strips   Medium,410,16,34,9,1250,5.5,0,35,0,2
+Burger King,Side,Side,Onion Rings  medium,410,4,21,53,1080,4,0,0,4,5
+Burger King,Burgers/Sandwiches,Veggie ,BK VEGGIE Burger,410,22,16,44,1030,3,0,5,7,8
+Wendy's,Breakfast,Breakfast,Fresh-Baked Biscuit with Applewood Smoked Bacon,420,17,23,36,1260,13,0,240,2,4
+Burger King,Side,Side,Chicken BLT Garden Fresh Salad Wrap- grilled,420,22,22,36,1280,6,0,55,4,3
+McDonald's,Burgers/Sandwiches,Chicken,Premium McWrap Chicken & Ranch (Grilled),420,30,16,41,1130,6,0,80,3,5
+McDonald's,Burgers/Sandwiches,Chicken,Southern Style Crispy Chicken Sandwich,420,21,19,43,900,3,0,45,2,7
+Burger King,Burgers/Sandwiches,Chicken,Original Chicken Sandwich w/o Mayo,420,24,16,46,1210,4,0,45,3,4
+Burger King,Breakfast,Breakfast,"Bacon, Egg & Cheese Biscuit",420,17,25,32,1400,16,1,160,1,4
+Burger King,Breakfast,Breakfast,Country Ham and Egg Biscuit,420,18,23,32,1990,15,1,185,1,3
+White Castle ,Burgers/Sandwiches,Chicken,Chicken Supreme Slider,420,14,31,20,750,7,0,30,1,2
+White Castle ,Breakfast,Breakfast,Awrey Cinnamon Roll ,420,6,20,56,460,8,0,5,2,22
+McDonald's,Breakfast,Breakfast,Sausage McGriddles,420,11,22,44,1030,8,0,35,2,15
+Burger King,Breakfast,Breakfast,Sausage Biscuit,420,13,27,32,1090,15,1,35,1,3
+Wendy's,Burgers/Sandwiches,Burger,Double Stack,420,27,21,26,1060,10,2,90,2,6
+Burger King,Side,Side,Chicken Apple and Cranberry Garden Fresh Salad Wrap- grilled,430,19,18,47,980,5,0,45,4,17
+White Castle ,Dessert,Dessert,Chocolate Shake  New Jersey Region  small,430,14,12,73,370,7,0,40,3,57
+McDonald's,Breakfast,Breakfast,Sausage Biscuit (Regular Size Biscuit),430,11,27,34,1080,12,0,30,2,2
+McDonald's,Dessert,Dessert,Snack Size McFlurry with M&MS Candies,430,9,15,64,120,10,0,35,1,59
+White Castle ,Breakfast,Breakfast,Cloverhill Cheese Danish ,430,6,17,62,360,9,0,10,1,35
+McDonald's,Burgers/Sandwiches,Chicken,Premium Grilled Chicken Ranch BLT Sandwich,440,36,14,43,1210,4,0,90,3,9
+White Castle ,Dessert,Dessert,Vanilla Shake  New Jersey Region  small,440,16,12,65,460,8,0,55,0,54
+White Castle ,Dessert,Dessert,Chocolate Shake  Detroit region  small,440,12,12,68,400,6,0,40,0,68
+White Castle ,Side,Side,Mozzarella Cheese Sticks  3 Sticks,440,12,33,22,850,9,0,30,1,1
+Wendy's,Burgers/Sandwiches,Chicken,Crispy Chicken Caesar Wrap,440,17,26,33,970,7,0,45,2,1
+Burger King,Burgers/Sandwiches,Burger,Double Bacon Cheeseburger,440,26,24,32,940,10,1,85,1,7
+McDonald's,Burgers/Sandwiches,Burger,Double Cheeseburger,440,25,23,34,1050,11,2,80,2,7
+McDonald's,Burgers/Sandwiches,Burger,Daily Double,440,23,24,33,770,9,2,70,2,7
+Burger King,Dessert,Dessert,OREO Sundae,440,8,12,77,390,7,0,25,1,57
+McDonald's,Salad,Salad,Premium Southwest Salad with Crispy Chicken,450,23,21,42,820,5,0,50,7,13
+Wendy's,Breakfast,Breakfast,Mornin Melt Panini with Egg & Cheese,450,25,27,33,560,15,1,270,1,3
+Burger King,Breakfast,Breakfast,"CROISSANWICH Sausage, Egg & Cheese",450,19,30,26,910,11,0,195,1,4
+Burger King,Burgers/Sandwiches,Veggie ,BK VEGGIE Burger w/ Cheese,450,24,20,44,1250,5,0,20,7,8
+McDonald's,Breakfast,Breakfast,Sausage McMuffin with Egg,450,21,27,32,890,10,0,285,4,2
+Wendy's,Burgers/Sandwiches,Chicken,10-Piece Chicken Nuggets,450,23,30,24,870,7,0,75,2,0
+Burger King,Dessert,Dessert,Mini M & M Sundae,450,8,13,76,310,9,0,30,0,62
+McDonald's,Breakfast,Breakfast,Sausage Biscuit with Egg Whites (Regular Size Biscuit),460,18,27,34,1180,12,0,35,2,3
+White Castle ,Side,Side,Fully Loaded Cheese Fries  (New Jersey region)  Small,460,4,38,20,900,8,0,20,2,3
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",460,19,26,38,1300,13,0,250,2,3
+Burger King,Side,Side,Chicken Caesar Garden Fresh Salad Wrap- crispy,460,21,23,44,1260,5,0,35,5,4
+McDonald's,Burgers/Sandwiches,Chicken,Premium McWrap Chicken & Bacon (Grilled),460,35,18,40,1330,7,0,95,3,4
+White Castle ,Breakfast,Breakfast,Cloverhill Big Texas Cinnamon Danish ,460,6,20,63,420,10,0,10,2,33
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese McGriddles",460,19,21,48,1250,9,0,250,2,15
+White Castle ,Breakfast,Breakfast,French Toast Sticks (4pc),460,5,31,39,410,5,0,0,2,10
+White Castle ,Side,Side,Fully Loaded Fries  Small,460,4,38,20,900,8,0,20,2,3
+Wendy's,Breakfast,Breakfast,Sausage Gravy & Biscuit,460,9,24,51,1530,12,0,20,2,5
+Wendy's,Breakfast,Breakfast,Sausage Biscuit,460,13,29,37,1110,14,0,50,2,4
+McDonald's,Breakfast,Breakfast,Cinnamon Melts,460,6,19,66,370,9,0,15,3,32
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",470,20,25,42,1420,12,0,35,3,4
+McDonald's,Breakfast,Breakfast,Southern Style Chicken Biscuit (Large Size Biscuit),470,17,24,46,1290,9,0,30,3,4
+White Castle ,Breakfast,Breakfast,"Waffle Breakfast Sandwich w/Bacon, Egg, Cheese ",470,15,32,17,690,14,0,200,1,0
+White Castle ,Dessert,Dessert,Vanilla Shake  Chicago region  small,470,12,8,85,360,5,0,35,2,72
+Wendy's,Breakfast,Breakfast,"Sunny Side Burger, Jr. Single",470,28,27,29,1010,12,1,290,1,4
+McDonald's,Burgers/Sandwiches,Chicken,Chicken McNuggets (10 piece),470,22,30,30,900,5,0,65,2,0
+Burger King,Burgers/Sandwiches,Burger,WHOPPER Sandwich w/o Mayo,470,25,17,57,840,7,0,55,3,13
+Wendy's,Dessert,Dessert,Oreo Brownie,470,5,21,68,260,6,0,75,3,50
+Wendy's,Breakfast,Breakfast,Toasted Bagel Sandwich with Applewood Smoked Bacon,480,24,18,57,1010,7,0,245,4,8
+White Castle ,Dessert,Dessert,Strawberry Shake  Columbus region  small,480,13,11,85,470,8,0,45,0,81
+McDonald's,Breakfast,Breakfast,Sausage Biscuit (Large Size Biscuit),480,11,31,39,1190,13,0,30,3,3
+White Castle ,Burgers/Sandwiches,Fish,Surf & Turf Slider without Cheese ,480,19,33,26,720,8,1,35,2,2
+White Castle ,Side,Side,Home-style Onion Rings  Medium,480,6,33,40,580,5,0,0,2,7
+Burger King,Burgers/Sandwiches,Chicken,Chicken Crisp Sandwich- Spicy,480,17,27,40,930,5,1,45,2,6
+Wendy's,Salad,Salad,Spicy Chicken Caesar Salad,480,35,27,24,1030,12,1,90,6,3
+White Castle ,Side,Side,Onion Chips    Small,480,4,36,33,690,6,0,0,6,4
+Burger King,Side,Side,Chicken BLT Garden Fresh Salad Wrap- crispy,490,22,27,43,1340,7,0,50,4,4
+White Castle ,Dessert,Dessert,Chocolate Shake  Indianapolis region  small,490,12,15,88,350,9,0,75,3,67
+White Castle ,Dessert,Dessert,Chocolate Shake  Louisville region  small,490,12,15,88,350,9,0,75,3,67
+White Castle ,Dessert,Dessert,Chocolate Shake  St. Louis Region  small,490,11,11,87,150,8,0,40,4,64
+Burger King,Burgers/Sandwiches,Burger,BK Double Stacker,490,26,30,32,820,11,1,90,1,7
+Burger King,Side,Side,Chicken Apple and Cranberry Garden Fresh Salad Wrap- crispy,500,18,24,54,1030,6,0,40,5,19
+McDonald's,Breakfast,Breakfast,"Sausage, Egg & Cheese McGriddles with Egg Whites",500,21,26,46,1320,10,0,50,2,15
+Wendy's,Breakfast,Breakfast,Artisan Egg Sandwich with All-Natural Sausage,500,24,32,30,870,13,1,280,1,4
+White Castle ,Dessert,Dessert,Chocolate Shake  Columbus region  small,500,13,12,88,470,8,0,45,0,82
+Burger King,Breakfast,Breakfast,Pancakes (3) and 1 oz breakfast syrup,500,7,19,77,700,5,0,95,1,36
+Burger King,Burgers/Sandwiches,Chicken,Chicken Crisp Sandwich- classic,500,17,32,39,860,6,2,45,2,5
+Burger King,Side,Side,French Fries  large (Salted),500,5,22,72,710,4,0,0,5,0
+Wendy's,Side,Side,Large Natural-Cut Fries,500,6,24,65,540,5,0,0,6,0
+Burger King,Breakfast,Breakfast,Hash Browns  medium,500,4,33,48,810,7,0,0,7,0
+Burger King,Side,Side,Onion Rings  large,500,5,25,64,1310,5,0,0,5,7
+McDonald's,Side,Side,Large French Fries,500,6,25,63,350,4,0,0,6,0
+McDonald's,Burgers/Sandwiches,Pork ,McRib ,500,22,26,44,980,10,0,70,3,11
+McDonald's,Breakfast,Breakfast,Sausage Biscuit with Egg (Regular Size Biscuit),510,18,33,36,1170,14,0,250,2,2
+White Castle ,Breakfast,Breakfast,Chicken & Waffles w/Breaded Chicken Breast ,510,10,35,26,650,10,0,25,1,0
+McDonald's,Dessert,Dessert,McFlurry with OREO Cookies (12 fl oz cup),510,12,17,80,280,9,1,45,1,64
+McDonald's,Burgers/Sandwiches,Chicken,Premium Crispy Chicken Classic Sandwich,510,24,22,55,990,4,0,45,3,10
+McDonald's,Burgers/Sandwiches,Chicken,Premium Grilled Chicken Club Sandwich,510,40,20,44,1250,7,0,105,3,9
+Burger King,Burgers/Sandwiches,Chicken,Premium Chicken Sandwich- Grilled,510,31,22,43,1350,4,0,80,2,6
+McDonald's,Dessert,Dessert,Snack Size McFlurry with Rolo**,510,10,16,84,190,10,1,40,1,63
+Wendy's,Breakfast,Breakfast,Honey Butter Chicken Biscuit,510,21,25,52,1400,11,0,55,2,9
+Wendy's,Burgers/Sandwiches,Chicken,Homestyle Chicken Sandwich,510,29,20,54,1200,4,0,70,4,8
+Wendy's,Burgers/Sandwiches,Chicken,Spicy Chicken Sandwich,510,29,20,55,1130,4,0,65,4,7
+McDonald's,Breakfast,Breakfast,Sausage Biscuit with Egg Whites (Large Size Biscuit),520,18,32,40,1290,13,0,35,3,3
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",520,19,30,43,1410,14,0,250,3,4
+McDonald's,Burgers/Sandwiches,Chicken,Premium McWrap Chicken Sweet Chili (Crispy),520,23,22,57,1190,5,0,45,2,11
+Burger King,Breakfast,Breakfast,"Sausage, Egg, & Cheese Biscuit",520,20,34,33,1490,19,1,180,1,3
+McDonald's,Burgers/Sandwiches,Burger,Quarter Pounder with Cheese+,520,30,26,41,1100,12,2,95,3,10
+McDonald's,Breakfast,Breakfast,Hotcakes and Sausage,520,15,24,61,930,7,0,50,3,14
+Burger King,Salad,Salad,Chicken Caesar Garden Fresh Salad w/ TENDERGRILL & dressing,530,35,32,26,1640,5,0,95,3,6
+Burger King,Breakfast,Breakfast,"DOUBLE CROISSANWICH w/ Sausage, Bacon, Egg, & Cheese",530,23,36,26,1220,15,1,210,1,4
+Burger King,Breakfast,Breakfast,"DOUBLE CROISSANWICH w/ Ham, Sausage, Egg, & Cheese",530,27,34,27,1550,14,1,215,1,5
+Wendy's,Burgers/Sandwiches,Chicken,Asiago Ranch Club w/ Ultimate Chicken Gril,530,43,21,43,1270,7,0,130,2,8
+McDonald's,Dessert,Dessert,Vanilla McCaf Shake (12 fl oz cup),530,11,15,86,160,10,1,60,0,63
+White Castle ,Side,Side,Chicken Rings  6 Rings,530,18,47,12,610,9,0,105,0,0
+Wendy's,Side,Side,Chili Cheese Fries,530,16,28,55,1050,10,1,45,7,4
+Wendy's,Salad,Salad,Baja Chili Salad,530,32,31,34,1580,14,1,90,13,10
+Burger King,Dessert,Dessert,Brownie Sundae,530,10,17,89,390,10,0,55,2,70
+Wendy's,Breakfast,Breakfast,Mornin Melt Panini with Applewood Smoked Bacon,540,30,35,33,860,18,1,290,1,4
+Burger King,Burgers/Sandwiches,Chicken,Premium Chicken Sandwich- Crispy w/o Mayo,540,29,21,57,1370,4,0,55,3,8
+White Castle ,Dessert,Dessert,Strawberry Shake  Chicago region  small,540,12,8,103,360,5,0,35,2,90
+Wendy's,Dessert,Dessert,"Strawberry Frosty Shake, Small",540,10,12,97,180,8,1,45,1,86
+White Castle ,Side,Side,Buffalo Chicken Rings  6 Rings,540,18,48,14,870,9,0,110,1,1
+White Castle ,Side,Side,Ranch Chicken Rings  6 Rings,540,18,48,14,820,9,0,110,1,1
+McDonald's,Burgers/Sandwiches,Burger,Quarter Pounder Deluxe+,540,29,27,45,960,11,2,85,3,9
+White Castle ,Burgers/Sandwiches,Fish,Surf & Turf Slider ,540,22,38,27,990,11,1,45,2,2
+Wendy's,Breakfast,Breakfast,Cinna-Middles,540,7,30,62,640,14,0,20,2,25
+Burger King,Salad,Salad,Chicken BLT Garden Fresh Salad w/ TENDERGRILL & dressing,550,36,37,17,1640,10,0,115,3,5
+White Castle ,Dessert,Dessert,Chocolate Shake  Chicago region  small,550,12,10,106,330,5.5,0,35,2,90
+McDonald's,Dessert,Dessert,Strawberry McCaf Shake (12 fl oz cup),550,12,16,90,160,10,1,60,0,79
+McDonald's,Breakfast,Breakfast,"Sausage, Egg & Cheese McGriddles",550,20,31,48,1320,12,0,265,2,15
+McDonald's,Burgers/Sandwiches,Burger,Big Mac,550,25,29,46,970,10,1,75,3,9
+Burger King,Salad,Salad,Chicken Apple & Cranberry Garden Fresh Salad w/ TENDERGRILL & dressing,560,29,30,40,980,7,0,90,4,34
+White Castle ,Breakfast,Breakfast,Hash Round Nibblers (New Jersey)  Medium,560,4,42,39,640,9,0,0,4,0
+Burger King,Burgers/Sandwiches,Burger,WHOPPER Sandwich with Cheese w/o Mayo,560,29,24,58,1240,12,1,75,3,14
+McDonald's,Dessert,Dessert,Chocolate McCaf Shake (12 fl oz cup),560,12,16,91,240,10,1,60,1,77
+McDonald's,Breakfast,Breakfast,Sausage Biscuit with Egg (Large Size Biscuit),570,18,37,42,1280,15,0,250,3,3
+Wendy's,Breakfast,Breakfast,Fresh-Baked Biscuit with All-Natural Sausage,570,23,36,37,1390,17,0,275,2,5
+White Castle ,Dessert,Dessert,Chocolate Shake Nashville region  small,570,13,13,100,240,9,0,45,0,79
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese Bagel with Egg Whites",580,30,26,55,1490,9,1,60,3,8
+McDonald's,Burgers/Sandwiches,Chicken,Premium McWrap Chicken & Ranch (Crispy),580,26,29,55,1290,8,1,60,3,7
+Burger King,Breakfast,Breakfast,Southwestern Breakfast Burrito,580,23,35,42,1690,13,0,205,4,3
+Wendy's,Dessert,Dessert,"Chocolate Frosty Shake, Small",580,11,13,104,250,8,1,45,2,93
+Wendy's,Burgers/Sandwiches,Burger,1/4 lb. Single w/ Cheese,580,30,31,42,1220,13,2,100,3,10
+White Castle ,Dessert,Dessert,Chocolate Shake Minneapolis region  medium,590,13,13,111,590,7,0,65,0,91
+McDonald's,Burgers/Sandwiches,Chicken,Premium Crispy Chicken Ranch BLT Sandwich,590,32,27,57,1380,6,0,70,3,11
+White Castle ,Dessert,Dessert,Vanilla Shake  Columbus region  medium,590,19,16,96,670,11,0,65,0,91
+Burger King,Burgers/Sandwiches,Fish ,Premium Alaskan Fish Sandwich,590,21,31,57,1480,5,0,45,3,8
+White Castle ,Side,Side,Fish Nibblers   Medium,590,30,29,51,1300,5,0,20,2,2
+Wendy's,Breakfast,Breakfast,Toasted Bagel Sandwich with All-Natural Sausage,600,28,29,57,1040,11,0,270,4,8
+McDonald's,Burgers/Sandwiches,Burger,Quarter Pounder Bacon & Cheese+,600,37,29,48,1440,13,2,105,3,12
+White Castle ,Breakfast,Breakfast,Hash Round Nibblers  Medium,600,4,46,42,760,7,0,0,4,0
+White Castle ,Side,Side,French Fries  Medium,600,6,39,57,85,7,0,0,6,3
+McDonald's,Burgers/Sandwiches,Burger,Quarter Pounder Bacon Habanero Ranch+,610,37,31,46,1180,13,2,105,3,10
+Burger King,Burgers/Sandwiches,Chicken,Home-style Chicken Strips- 5pc,610,23,32,57,2340,6,1,50,1,1
+White Castle ,Burgers/Sandwiches,Fish,Double Fish Slider w/ Cheese,610,19,48,25,700,10,0,45,1,2
+White Castle ,Dessert,Dessert,Chocolate Shake  New Jersey Region  medium,620,19,17,104,520,10,0,60,4,81
+White Castle ,Dessert,Dessert,Vanilla Shake  New Jersey Region  medium,620,23,18,94,660,12,0,80,0,78
+McDonald's,Burgers/Sandwiches,Chicken,Premium McWrap Chicken & Bacon (Crispy),620,32,31,54,1490,9,1,75,3,6
+White Castle ,Dessert,Dessert,Chocolate Shake  Detroit region  medium,620,17,17,96,570,9,0,55,0,96
+White Castle ,Side,Side,Clam Strips   Sack,620,24,51,14,1870,8,0,50,0,3
+White Castle ,Dessert,Dessert,Strawberry Shake  Cincinnati region  small,630,14,16,109,350,11,0,35,0,88
+White Castle ,Side,Side,French Fries (New Jersey region)  Medium,630,9,39,60,70,9,0,0,6,3
+White Castle ,Dessert,Dessert,Vanilla Shake  Cincinnati region  small,630,14,16,109,350,11,0,35,0,88
+Burger King,Burgers/Sandwiches,Chicken,Original Chicken Sandwich,630,24,39,46,1390,7,1,65,3,4
+McDonald's,Breakfast,Breakfast,"Bacon, Egg & Cheese Bagel",630,30,32,57,1490,11,1,275,3,7
+Burger King,Burgers/Sandwiches,Burger,BK Triple Stacker,630,36,41,32,1040,17,1,130,1,7
+Burger King,Burgers/Sandwiches,Burger,WHOPPER Sandwich,630,25,35,57,980,10,1,65,3,13
+McDonald's,Breakfast,Breakfast,Big Breakfast with Egg Whites (Regular Size Biscuit),640,26,37,50,1590,14,0,35,3,3
+McDonald's,Burgers/Sandwiches,Chicken,Chicken Selects Premium Breast Strips (5 pc),640,38,38,36,1240,6,0,90,1,0
+White Castle ,Side,Side,Onion Rings  New Jersey region  Large,640,4,41,62,580,7,0,0,6,9
+Wendy's,Breakfast,Breakfast,Mornin Melt Panini with All-Natural Sausage,650,34,46,33,900,22,1,315,1,3
+McDonald's,Dessert,Dessert,McFlurry with M&MS Candies (12 fl oz cup),650,13,23,96,180,14,1,50,1,89
+White Castle ,Dessert,Dessert,Chocolate Shake  Cincinnati region  small,650,14,17,111,350,11,0,35,0,88
+Wendy's,Dessert,Dessert,"Caramel Frosty Shake, Small",650,10,14,121,320,9,1,50,0,96
+Burger King,Breakfast,Breakfast,"DOUBLE CROISSANWICH w/ Sausage, Egg, & Cheese",660,29,48,27,1420,18,1,235,1,4
+McDonald's,Dessert,Dessert,Vanilla McCaf Shake (16 fl oz cup),660,14,19,109,200,12,1,75,0,81
+Burger King,Salad,Salad,Chicken Caesar Garden Fresh Salad w/ TENDERCRISP & dressing,670,34,43,40,1760,7,0,80,5,8
+Wendy's,Burgers/Sandwiches,Chicken,Asiago Ranch Club w/ Homestyle Chicken,670,38,32,57,1640,9,0,100,4,9
+White Castle ,Dessert,Dessert,Vanilla Shake  Chicago region  medium,670,17,12,122,510,7,0,50,3,103
+McDonald's,Burgers/Sandwiches,Chicken,Premium Crispy Chicken Club Sandwich,670,36,33,58,1410,9,0,85,3,11
+Wendy's,Burgers/Sandwiches,Chicken,Asiago Ranch Club w/ Spicy Chicken,670,37,32,57,1560,9,1,100,4,8
+Burger King,Burgers/Sandwiches,Burger,DOUBLE WHOPPER Sandwich w/o Mayo,670,41,32,57,900,14,1,110,3,13
+Burger King,Breakfast,Breakfast,Pancake and Sausage platter,670,14,34,78,1010,9,0,125,1,36
+Burger King,Breakfast,Breakfast,Hash Browns  large,670,5,44,65,1080,9,0,0,9,0
+Wendy's,Burgers/Sandwiches,Burger,Son of Baconator,670,38,37,41,1670,15,2,130,2,9
+McDonald's,Dessert,Dessert,Egg Nog McCafe Shake (16 fl oz cup) Medium,680,14,19,111,220,12,1,75,0,93
+Burger King,Salad,Salad,Chicken BLT Garden Fresh Salad w/ TENDERCRISP & dressing,690,35,48,31,1750,12,1,100,4,8
+McDonald's,Breakfast,Breakfast,Big Breakfast with Egg Whites (Large Size Biscuit),690,26,41,55,1700,14,0,35,4,4
+White Castle ,Dessert,Dessert,Chocolate Shake  Indianapolis region  medium,690,17,22,126,500,13,0,110,4,95
+White Castle ,Dessert,Dessert,Chocolate Shake  Louisville region  medium,690,17,22,126,500,13,0,110,4,95
+McDonald's,Dessert,Dessert,McFlurry with OREO Cookies (16 fl oz cup),690,15,23,106,380,12,1,55,1,85
+White Castle ,Dessert,Dessert,Strawberry Shake  Columbus region  medium,690,19,16,122,670,11,0,65,0,117
+McDonald's,Dessert,Dessert,Strawberry McCaf Shake (16 fl oz cup),690,15,20,114,210,13,1,75,0,100
+Burger King,Salad,Salad,Chicken Apple & Cranberry Garden Fresh Salad w/ TENDERCRISP & dressing,700,28,41,54,1090,9,0,80,5,37
+White Castle ,Dessert,Dessert,Chocolate Shake  St. Louis Region  medium,700,16,16,124,220,11,0,55,5,92
+McDonald's,Dessert,Dessert,Chocolate McCaf Shake (16 fl oz cup),700,15,20,114,300,12,1,75,2,97
+White Castle ,Dessert,Dessert,Chocolate Shake  Columbus region  medium,710,19,18,126,670,11,0,65,0,117
+Burger King,Burgers/Sandwiches,Burger,WHOPPER Sandwich with Cheese,710,29,42,59,1380,15,1,85,3,14
+McDonald's,Breakfast,Breakfast,Big Breakfast (Regular Size Biscuit),740,28,48,51,1560,17,0,555,3,3
+White Castle ,Side,Side,Mozzarella Cheese Sticks  5 Sticks,740,21,55,36,1420,15,0.5,50,2,2
+McDonald's,Burgers/Sandwiches,Burger,Double Quarter Pounder with Cheese++,750,48,43,42,1280,19,3,160,3,10
+Burger King,Burgers/Sandwiches,Chicken,Premium Chicken Sandwich- Crispy,750,30,45,58,1560,8,1,70,3,8
+Burger King,Burgers/Sandwiches,Burger,BK Quad Stacker,760,46,51,33,1270,22,2,170,1,8
+White Castle ,Side,Side,French Fries  Sack,770,8,49,76,115,9,0,0,8,4
+White Castle ,Dessert,Dessert,Strawberry Shake  Chicago region  medium,780,17,12,148,510,7,0,50,3,129
+White Castle ,Dessert,Dessert,Chocolate Shake  Chicago region  medium,780,16,14,152,480,8,0,50,3,129
+Wendy's,Dessert,Dessert,"Strawberry Frosty Shake, Large",780,13,15,149,240,10,1,60,1,134
+White Castle ,Side,Side,Chicken Rings  9 Rings,790,26,71,18,910,14,0,160,1,0
+McDonald's,Breakfast,Breakfast,Big Breakfast (Large Size Biscuit),800,28,52,56,1680,18,0,555,4,3
+McDonald's,Dessert,Dessert,McFlurry with Reeses Peanut Butter Cup (16 fl oz cup),810,21,32,114,400,15,1,60,2,103
+White Castle ,Dessert,Dessert,Chocolate Shake Nashville region  medium,810,19,19,143,340,13,0,60,0,112
+White Castle ,Side,Side,French Fries (New Jersey region)  Sack,810,12,49,81,95,11,0,0,8,4
+White Castle ,Side,Side,Buffalo Chicken Rings  9 Rings,810,26,71,22,1390,14,0,160,1,1
+White Castle ,Side,Side,Ranch Chicken Rings  9 Rings,810,27,71,21,1300,14,0,160,1,1
+Burger King,Burgers/Sandwiches,Pork ,Country Pork Sandwich,810,29,42,78,1910,13,0,75,4,10
+McDonald's,Dessert,Dessert,Vanilla McCaf Shake (22 fl oz cup),820,18,23,135,260,15,1,90,0,101
+Wendy's,Burgers/Sandwiches,Burger,1/2 lb. Double w/ Cheese,820,48,47,42,1510,20,3,170,3,10
+Burger King,Burgers/Sandwiches,Burger,DOUBLE WHOPPER Sandwich with Cheesew/o Mayo,830,52,47,53,1340,21,2,150,3,11
+McDonald's,Dessert,Dessert,Egg Nog McCafe Shake (22 fl oz cup) Large,830,18,23,137,270,15,1,90,0,116
+Burger King,Burgers/Sandwiches,Burger,DOUBLE WHOPPER Sandwich,830,42,50,57,1040,17,1,120,3,13
+McDonald's,Dessert,Dessert,Strawberry McCaf Shake (22 fl oz cup),850,18,24,140,260,15,1,90,0,123
+McDonald's,Dessert,Dessert,Chocolate McCaf Shake (22 fl oz cup),850,19,23,141,380,15,1,85,2,120
+White Castle ,Dessert,Dessert,Chocolate Shake Minneapolis region  large,860,19,19,163,860,10,0,95,0,134
+White Castle ,Dessert,Dessert,Vanilla Shake  Columbus region  large,860,27,23,141,980,16,0,100,0,133
+Burger King,Burgers/Sandwiches,Burger,TRIPLE WHOPPER Sandwich w/o Mayo,870,58,47,57,950,20,2,165,3,13
+Wendy's,Dessert,Dessert,"Chocolate Frosty Shake, Large",870,15,17,164,380,11,1,60,4,148
+White Castle ,Side,Side,Home-style Onion Rings Sack,890,11,61,74,1070,10,0,0,3,14
+White Castle ,Dessert,Dessert,Strawberry Shake  Cincinnati region  medium,910,20,23,156,500,15,0,50,0,126
+White Castle ,Dessert,Dessert,Chocolate Shake  New Jersey Region  large,910,28,26,153,760,14,0,85,6,119
+White Castle ,Dessert,Dessert,Vanilla Shake  Cincinnati region  medium,910,20,23,156,500,15,0,50,0,126
+White Castle ,Dessert,Dessert,Vanilla Shake  New Jersey Region  large,910,34,26,137,970,17,0,115,0,114
+White Castle ,Dessert,Dessert,Chocolate Shake  Detroit region  large,920,25,25,141,830,13,0,85,0,141
+White Castle ,Dessert,Dessert,Chocolate Shake  Cincinnati region  medium,930,20,24,160,500,15,0,50,0,126
+McDonald's,Dessert,Dessert,McFlurry with M&MS Candies (16 fl oz cup),930,20,33,139,260,20,1,75,2,128
+White Castle ,Side,Side,Onion Chips    Medium,930,8,65,73,1550,11,0,0,13,8
+McDonald's,Burgers/Sandwiches,Chicken,Chicken McNuggets (20 piece),940,44,59,59,1800,10,0,135,3,0
+Wendy's,Burgers/Sandwiches,Burger,Baconator,940,57,56,41,1890,23,3,205,2,9
+Burger King,Burgers/Sandwiches,Chicken,Chicken Nuggets (20 pc),950,51,55,50,1530,11,0,130,5,0
+White Castle ,Dessert,Dessert,Vanilla Shake  Chicago region  large,980,25,18,179,750,11,0.5,70,5,151
+McDonald's,Breakfast,Breakfast,Big Breakfast with Hotcakes & Egg Whites (Regular Biscuit),990,35,46,110,2170,16,0,55,6,17
+Burger King,Burgers/Sandwiches,Burger,DOUBLE WHOPPER Sandwich with Cheese,990,52,65,53,1480,24,2,160,3,11
+Wendy's,Dessert,Dessert,"Caramel Frosty Shake, Large",990,14,18,195,510,11,1,70,0,153
+Burger King,Burgers/Sandwiches,Burger,Texas DOUBLE WHOPPER Sandwich,1000,52,66,55,1860,24,2,155,3,11
+White Castle ,Dessert,Dessert,Strawberry Shake  Columbus region  large,1010,27,23,180,980,16,0,100,0,171
+White Castle ,Dessert,Dessert,Chocolate Shake  Indianapolis region  large,1020,25,32,184,730,19,0,160,6,140
+White Castle ,Dessert,Dessert,Chocolate Shake  Louisville region  large,1020,25,32,184,730,19,0,160,6,140
+Burger King,Burgers/Sandwiches,Burger,TRIPLE WHOPPER Sandwich,1020,58,65,57,1090,23,2,175,3,13
+White Castle ,Dessert,Dessert,Chocolate Shake  St. Louis Region  large,1030,24,24,182,320,16,0,80,8,134
+White Castle ,Dessert,Dessert,Chocolate Shake  Columbus region  large,1040,27,26,183,980,16,0,100,0,171
+McDonald's,Breakfast,Breakfast,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),1050,35,50,115,2290,16,0,55,7,18
+McDonald's,Side,Chicken,Spicy Chicken McBites Shareable Size,1050,48,63,73,1620,9,0,110,20,1
+McDonald's,Breakfast,Breakfast,Big Breakfast with Hotcakes (Regular Size Biscuit),1090,36,56,111,2150,19,0,575,6,17
+Wendy's,Burgers/Sandwiches,Burger,3/4 lb. Triple w/ Cheese,1090,69,66,43,1990,29,4,255,3,11
+White Castle ,Side,Side,Fish Nibblers   Sack,1100,55,53,95,2390,10,0,35,3,3
+White Castle ,Dessert,Dessert,Strawberry Shake  Chicago region  large,1140,25,18,217,750,11,0.5,70,5,189
+McDonald's,Breakfast,Breakfast,Big Breakfast with Hotcakes (Large Size Biscuit),1150,36,60,116,2260,20,0,575,7,17
+White Castle ,Dessert,Dessert,Chocolate Shake  Chicago region  large,1150,24,21,220,700,12,0.5,70,5,189
+White Castle ,Dessert,Dessert,Chocolate Shake Nashville region  large,1190,27,27,210,500,18,0,90,0,165
+White Castle ,Dessert,Dessert,Strawberry Shake  Cincinnati region  large,1330,29,33,229,730,22,0,75,0,185
+White Castle ,Dessert,Dessert,Vanilla Shake  Cincinnati region  large,1330,29,33,229,730,22,0,75,0,185
+White Castle ,Breakfast,Breakfast,Hash Round Nibblers (New Jersey)  Sack,1330,9,101,92,1520,22,0,0,9,0
+White Castle ,Dessert,Dessert,Chocolate Shake  Cincinnati region  large,1350,29,35,234,730,22,0,70,0,185
+White Castle ,Side,Side,Onion Chips    Sack,1350,11,101,92,1950,17,0,0,16,11
+White Castle ,Breakfast,Breakfast,Hash Round Nibblers  Sack,1440,10,110,101,1830,17,0,0,10,0
+Burger King,Breakfast,Breakfast,BK Ultimate Breakfast Platter,1450,40,84,134,2920,30,1,505,5,41
+White Castle ,Side,Side,Mozzarella Cheese Sticks  10 Sticks,1470,41,111,73,2850,31,1,100,4,4
+White Castle ,Side,Side,Chicken Rings  20 Rings,1760,58,158,41,2020,31,0,355,2,1
+White Castle ,Side,Side,Buffalo Chicken Rings  20 Rings,1790,59,158,47,2940,31,0,355,2,2
+White Castle ,Side,Side,Ranch Chicken Rings  20 Rings,1790,60,159,46,2760,31,0,360,2,3

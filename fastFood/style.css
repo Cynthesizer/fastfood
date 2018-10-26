@@ -1,0 +1,120 @@
+h1{
+  margin-bottom: 0px;
+}
+body {
+    font-family: "Arial";
+}
+#heat-map {
+  border-right: solid #2B2B2B 1px;
+}
+#title-block {
+  background-image: url("./img/title_icon.svg");
+  width: 1024px;
+  height: 370px;
+}
+#title-block h1 {
+  font-family: "Open Sans";
+  font-weight: 900;
+  color: #FFB80E;
+  width: 653px;
+  padding-left: 377px;
+  text-align: left;
+  font-size: 45pt;
+  padding-top: 70px;
+  margin: 0px;
+  line-height: .75;
+}
+#title-block #sub-title {
+  font-family: "Open Sans";
+  font-weight: 600;
+  color: #FFB80E;
+  width: 500px;
+  padding-left: 377px;
+  text-align: left;
+  font-size: 28pt;
+  margin: 0px;
+  line-height: 1;
+}
+#title-block #category-title {
+  color: white;
+  font-size: 30pt;
+  font-family: "Open Sans";
+  font-weight: 600;
+  padding-left: 60px;
+  padding-top: 40px;
+  margin-bottom: 0px;
+}
+#title-block #category-sub-title {
+  color: black;
+  font-size: 25pt;
+  font-family: "Open Sans";
+  font-weight: 400;
+  padding-left: 60px;
+  margin: 0px;
+}
+#graph-title {
+  background-image: url("./img/graphTitle2.svg");
+ width: 1024px;
+  height: 341px;
+}
+.black-bar {
+  background-color: black;
+  height: 63px;
+  margin-top: 57px;
+}
+#main-text{
+  text-align:center;
+  margin-left:25%;
+  width: 50%;
+  left:50%;
+}
+#graph{
+    float: left;
+    display: flex;
+    /* justify-content: center; */
+    width: 100%;
+    height: 900px;
+}
+#scatterPlot{
+    width: 600px;
+    height: 600px;
+}
+#plotTitle{
+  font: 35px Open Sans;
+  font-weight: 900;
+  fill: #CE0000;
+}
+#itemBoxTitle{
+  font: 28px Open Sans;
+  font-weight: 900;
+  fill: #005499;
+}
+.axis-labels{
+  font: 25px Open Sans;
+  font-weight: 600;
+  fill: #CE0000;
+}
+#itemName{
+  font-weight: 900;
+  font-size: 32px;
+  font-family: "Open Sans";
+  color: #202020;
+}
+.itemValue{
+  font-weight: 600;
+  font-size: 25px;
+  font-family: "Open Sans";
+  fill: #CE0000;
+}
+.itemValueSub{
+  font-weight: 300;
+  font-size: 25px;
+  font-family: "Open Sans";
+}
+#categoryName{
+  font-weight: 700;
+  font-size: 48px;
+  font-family: "Open Sans";
+  text-anchor: middle;
+  fill: #FFFFFF;
+}

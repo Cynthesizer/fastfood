@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width">
+<title>Where Should I Eat?</title>
+<link rel="icon" href="./img/burgers_icon.svg">
+<link rel="stylesheet" href="./style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+</head>
+<body>
+	<div id="title-block">
+		<h1 id="title">Where Should I Eat?</h1>
+		<p id="sub-title">a Nutritional Comparison of Popular Burger Chains</p>
+		<p id="category-title">Number of Items Offered</p>
+		<p id="category-sub-title">by <font color=#005499>Food Category</font> & <font color="#FF0000">Restaurant</font></p>
+	</div>
+
+<svg id="heat-map" height=900 width=750></svg>
+<svg id="side-bar" height=900 width=273></svg>
+
+<div id="graph-title"></div>
+<div id='graph'>
+	<div id="scatterPlot"></div>
+	<div id="itemBox"></div>
+</div>
+	<script src="./script.js"></script>
+	<script src="./mainScript.js"></script>
+</body>
+<footer >
+</footer>
+</html>
